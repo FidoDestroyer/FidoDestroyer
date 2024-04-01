@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/fidodestroyer"><img src="https://api.daily.dev/devcards/v2/CTx8nvOwpiSiTxOdsdbRj.png?type=wide&r=bs1" width="652" alt="FidoDestroyer's Dev Card"/></a>
+
 <!--
 **FidoDestroyer/FidoDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
